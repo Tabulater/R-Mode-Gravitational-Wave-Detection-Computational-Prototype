@@ -1,5 +1,3 @@
-# R-Mode-Gravitational-Wave-Detection-Computational-Prototype
-This prototype demonstrates how the analytical r-mode gravitational-wave frequency model from “The role of r-modes in pulsar spin-down, pulsar timing, and gravitational waves” can be embedded directly into a computational signal-tracking pipeline.
 # R-Mode Gravitational Wave Detection — Model-Informed Kalman Tracking Prototype
 
 This repository contains a computational prototype for tracking continuous gravitational waves produced by unstable r-modes in rapidly rotating neutron stars. It extends the analytical model introduced in Valluri & Sambasivam (2017) by embedding the gravitational-wave frequency relation directly into a Kalman Filter.
